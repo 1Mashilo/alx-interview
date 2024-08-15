@@ -11,7 +11,7 @@ def rotate_2d_matrix(matrix):
     Args:
         matrix (list of list of int): A 2D matrix
         where each sublist represents a row.
-    
+
     Returns:
         None: The matrix is modified in-place, so nothing
         is returned.
