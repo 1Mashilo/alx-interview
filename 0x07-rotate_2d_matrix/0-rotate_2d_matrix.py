@@ -9,10 +9,12 @@ def rotate_2d_matrix(matrix):
     Rotate the given n x n 2D matrix 90 degrees clockwise in place.
 
     Args:
-        matrix (list of list of int): A 2D matrix where each sublist represents a row.
+        matrix (list of list of int): A 2D matrix
+        where each sublist represents a row.
     
     Returns:
-        None: The matrix is modified in-place, so nothing is returned.
+        None: The matrix is modified in-place, so nothing
+        is returned.
     
     Example:
         matrix = [[1, 2, 3],
