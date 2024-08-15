@@ -15,7 +15,7 @@ def rotate_2d_matrix(matrix):
     Returns:
         None: The matrix is modified in-place, so nothing
         is returned.
-    
+
     Example:
         matrix = [[1, 2, 3],
                   [4, 5, 6],
